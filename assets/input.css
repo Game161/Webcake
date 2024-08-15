@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'kanit';
+    src: url(/webcake-main/assets/font/Kanit-Italic.ttf)
+}
+body{
+    font-family: "kanit",sans-serif;
+}
+.full-screen{
+    height: 100vh;
+}
+
+.hero{
+    background-image:url('/webcake-main/img/cake.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
