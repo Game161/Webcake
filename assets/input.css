@@ -14,7 +14,7 @@ body{
 }
 
 .hero{
-    background-image:url('/webcake-main/img/cake.jpg');
+    background-image:url('/img/cake.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
